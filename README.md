@@ -30,6 +30,9 @@ I've decided to write this documentation with a full explanation on how to do it
             - [Holographic Displays](Exploitation/Directory%20Traversal/Holographic%20Displays.md)
             - [ServerSigns](Exploitation/Directory%20Traversal/ServerSigns.md)
         - [UUID Spoofing](Exploitation/UUID%20Spoofing.md)
+        - Getting Server IP
+            - [FastAsyncWorldEdit](Exploitation/Getting%20Server%20IP/FastAyncWorldEdit.md)
+            - [PlaceholderAPI](Exploitation/Getting%20Server%20IP/PlaceholderAPI.md)
     - **Social Engineering**
         - [Poisoned Plugin](Social%20Engineering/Poisoned%20Plugin.md)
         - [Session Hijacking](Social%20Engineering/Session%20Hijacking.md)
